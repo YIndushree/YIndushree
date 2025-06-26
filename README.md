@@ -33,7 +33,7 @@
 
 ## 📄 Resume
 
-[📄 View My Resume]([https://drive.google.com/file/d/1Oeph4VK9BVfTpu5edpJACgilYIROvvki/view?usp=drivesdk](https://google.com/file/d/1OGFo6V3NfsaQ7TJ-WeZQcb12YfeiM9Zc/view?usp=drivesdk ))
+[📄 View My Resume](https://drive.google.com/file/d/1OGFo6V3NfsaQ7TJ-WeZQcb12YfeiM9Zc/view?usp=drivesdk)
 
 ---
 
